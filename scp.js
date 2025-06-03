@@ -70,3 +70,5 @@ else{
 }
 console.log('Code displays: '+ computerChoice)
 console.log('You entered:'+ humanChoice)
+
+playRound(humanChoice,computerChoice)
